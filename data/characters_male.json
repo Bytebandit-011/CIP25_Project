@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "Superman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Batman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Wonder Woman",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "The Flash",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Green Lantern",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Aquaman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Cyborg",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "partially"
+  },
+  {
+    "name": "Martian Manhunter",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Green Arrow",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Black Canary",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Zatanna",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Hawkman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "no"
+  },
+  {
+    "name": "Hawkgirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "no"
+  },
+  {
+    "name": "Shazam",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Blue Beetle",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Raven",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Beast Boy",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Starfire",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Nightwing",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Robin",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Batgirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Supergirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Kid Flash",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Doctor Fate",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Constantine",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Red Tornado",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Firestorm",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "partially"
+  },
+  {
+    "name": "The Atom",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Vixen",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Black Lightning",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Booster Gold",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Captain Atom",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Katana",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Elongated Man",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Miss Martian",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Jessica Cruz",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Plastic Man",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Rorschach",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Spectre",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "John Stewart",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Oracle",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Red Hood",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Huntress",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Power Girl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Batwoman",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Stargirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Animal Man",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Phantom Stranger",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+
+
+  {
+    "name": "Superman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Batman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Wonder Woman",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "The Flash",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Green Lantern",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Aquaman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Cyborg",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "partially"
+  },
+  {
+    "name": "Martian Manhunter",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Green Arrow",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Black Canary",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Zatanna",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Hawkman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "no"
+  },
+  {
+    "name": "Hawkgirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "no"
+  },
+  {
+    "name": "Shazam",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Blue Beetle",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Raven",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Beast Boy",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Starfire",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Nightwing",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Robin",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Batgirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Supergirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Kid Flash",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Doctor Fate",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Constantine",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Red Tornado",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Firestorm",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "partially"
+  },
+  {
+    "name": "The Atom",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Vixen",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Black Lightning",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Booster Gold",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Captain Atom",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Katana",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Elongated Man",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Miss Martian",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Jessica Cruz",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Plastic Man",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Rorschach",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Spectre",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "John Stewart",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Oracle",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Red Hood",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Huntress",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Power Girl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Batwoman",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Stargirl",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Animal Man",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Phantom Stranger",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+
+  
+  {
+    "name": "Iron Man",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Captain America",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Thor",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Hulk",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "partially"
+  },
+  {
+    "name": "Black Widow",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Hawkeye",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Spider-Man",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Doctor Strange",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Black Panther",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Scarlet Witch",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Vision",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Ant-Man",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Wasp",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Captain Marvel",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Falcon",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Winter Soldier",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "War Machine",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Star-Lord",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Gamora",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Drax",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Groot",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "She-Hulk",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "partially"
+  },
+  {
+    "name": "Moon Knight",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Shang-Chi",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Ms. Marvel",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Ironheart",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "America Chavez",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Quicksilver",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Elektra",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+
+  
+  {
+    "name": "Thanos",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Loki",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Ultron",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Green Goblin",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "no",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Doctor Octopus",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Red Skull",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Killmonger",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Hela",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Mystique",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Magneto",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Venom",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Carnage",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Kingpin",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "Abomination",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Mandarin",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  }
+]
+
+
+
+
+

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Batman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Superman",
+    "gender": "male",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Wonder Woman",
+    "gender": "female",
+    "universe": "DC",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "no"
+  },
+  {
+    "name": "Spider-Man",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "yes",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Iron Man",
+    "gender": "male",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "yes",
+    "human": "yes"
+  },
+  {
+    "name": "Black Widow",
+    "gender": "female",
+    "universe": "Marvel",
+    "has_powers": "no",
+    "is_hero": "yes",
+    "wears_mask": "no",
+    "human": "yes"
+  },
+  {
+    "name": "joker",
+    "gender": "male",
+    "universe": "dc",
+    "has_powers": "no",
+    "is_hero": "no",
+    "wears_mask": "no",
+    "human": "yes"
+  }
+]
